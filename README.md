@@ -1,2 +1,5 @@
 # hello-world
-just a demo
+
+Hi,
+
+Smert here. I like Java and js
